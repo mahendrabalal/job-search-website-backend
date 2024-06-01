@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Module 2 Project",
+      "description": "Module 2 project - Integrate a React app with backend."
+    },
+    {
+      "id": 2,
+      "title": "Module 3 Project",
+      "description": "Create a full-stack application using MERN stack."
+    }
+  ]
+}
