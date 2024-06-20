@@ -1,199 +1,306 @@
 {
   "jobs": [
     {
-      "id": "job001",
-      "title": "Frontend Developer",
-      "description": "We are looking for a skilled frontend developer to join our team.",
-      "company": "InnovateX",
-      "location": "Remote",
-      "type": "Full-time",
-      "salary": "80,000 - 100,000 USD",
-      "requirements": ["3+ years of experience in frontend development", "Proficiency in React.js"],
-      "responsibilities": ["Develop user interfaces", "Optimize web applications"],
-      "posted_date": "2024-01-01",
-      "application_deadline": "2024-02-01"
-    },
-    {
-      "id": "job002",
-      "title": "Backend Developer",
-      "description": "We need an experienced backend developer to manage our server-side code.",
-      "company": "InnovateX",
+      "title": "software Engineer",
+      "description": "Developing scalable web applications using modern technologies.",
+      "company": "Tech Solutions Inc.",
       "location": "San Francisco, CA",
       "type": "Full-time",
-      "salary": "90,000 - 120,000 USD",
-      "requirements": ["5+ years of experience in backend development", "Expertise in Node.js"],
-      "responsibilities": ["Develop and maintain server-side logic", "Ensure high performance and responsiveness"],
-      "posted_date": "2024-01-05",
-      "application_deadline": "2024-02-05"
+      "salary": "$100,000 - $120,000",
+      "requirements": [
+        "Proficiency in JavaScript, HTML, CSS",
+        "Experience with React.js, Node.js, and Express.js",
+        "Understanding of database systems (SQL and NoSQL)"
+      ],
+      "responsibilities": [
+        "Designing and implementing frontend interfaces",
+        "Building backend APIs and services",
+        "Collaborating with UX/UI designers and product managers"
+      ],
+      "id": 1
     },
     {
-      "id": "job003",
+      "id": 2,
       "title": "Data Scientist",
-      "description": "Looking for a data scientist to analyze large datasets.",
-      "company": "DataCorp",
+      "company": "Data Insights Corp.",
       "location": "New York, NY",
-      "type": "Full-time",
-      "salary": "100,000 - 130,000 USD",
-      "requirements": ["Experience with Python and R", "Knowledge of machine learning algorithms"],
-      "responsibilities": ["Analyze datasets", "Develop predictive models"],
-      "posted_date": "2024-01-10",
-      "application_deadline": "2024-02-10"
+      "type": "Remote",
+      "description": "Applying machine learning algorithms to analyze large datasets and extract valuable insights.",
+      "salary": "$120,000 - $140,000",
+      "requirements": [
+        "Advanced knowledge of statistics and probability",
+        "Proficiency in Python, R, or MATLAB",
+        "Experience with data visualization tools (Tableau, Power BI)"
+      ],
+      "responsibilities": [
+        "Developing predictive models and algorithms",
+        "Presenting findings to stakeholders",
+        "Optimizing data processing pipelines"
+      ]
     },
     {
-      "id": "job004",
-      "title": "Product Manager",
-      "description": "Seeking a product manager to oversee product development.",
-      "company": "TechSolutions",
-      "location": "Remote",
-      "type": "Full-time",
-      "salary": "110,000 - 140,000 USD",
-      "requirements": ["3+ years of product management experience", "Strong communication skills"],
-      "responsibilities": ["Manage product lifecycle", "Collaborate with cross-functional teams"],
-      "posted_date": "2024-01-15",
-      "application_deadline": "2024-02-15"
+      "id": 3,
+      "title": "UX/UI Designer",
+      "company": "Creative Designs Co.",
+      "location": "Los Angeles, CA",
+      "type": "Contract",
+      "description": "Creating intuitive and visually appealing user interfaces for web and mobile applications.",
+      "salary": "$90,000 - $110,000",
+      "requirements": [
+        "Proficiency in design tools (Sketch, Adobe XD)",
+        "Strong portfolio showcasing UI/UX projects",
+        "Understanding of frontend development (HTML, CSS, JavaScript)"
+      ],
+      "responsibilities": [
+        "Conducting user research and usability testing",
+        "Collaborating with developers to implement designs",
+        "Iterating based on feedback and analytics"
+      ]
     },
     {
-      "id": "job005",
-      "title": "UX Designer",
-      "description": "We are looking for a UX designer to improve user experience.",
-      "company": "DesignHub",
-      "location": "Austin, TX",
-      "type": "Full-time",
-      "salary": "70,000 - 90,000 USD",
-      "requirements": ["Experience with UX design tools", "Strong portfolio of design projects"],
-      "responsibilities": ["Conduct user research", "Create wireframes and prototypes"],
-      "posted_date": "2024-01-20",
-      "application_deadline": "2024-02-20"
-    },
-    {
-      "id": "job006",
-      "title": "Marketing Specialist",
-      "description": "Join our team as a marketing specialist to drive our campaigns.",
-      "company": "MarketMakers",
+      "id": 4,
+      "title": "Data Scientist",
+      "company": "Big Data Analytics Corp.",
       "location": "Chicago, IL",
       "type": "Full-time",
-      "salary": "60,000 - 80,000 USD",
-      "requirements": ["Experience in digital marketing", "Excellent communication skills"],
-      "responsibilities": ["Develop marketing strategies", "Analyze market trends"],
-      "posted_date": "2024-01-25",
-      "application_deadline": "2024-02-25"
+      "description": "Join our data science team to analyze complex datasets and develop predictive models for business insights.",
+      "salary": "$100,000 - $120,000",
+      "requirements": [
+        "Strong proficiency in Python or R",
+        "Experience with machine learning libraries (e.g., TensorFlow, Scikit-Learn)",
+        "Advanced statistical analysis skills"
+      ],
+      "responsibilities": [
+        "Clean and preprocess data for analysis",
+        "Develop and implement machine learning algorithms",
+        "Communicate findings and insights to stakeholders"
+      ]
     },
     {
-      "id": "job007",
-      "title": "Customer Support Representative",
-      "description": "We are hiring a customer support representative.",
-      "company": "SupportPros",
-      "location": "Remote",
-      "type": "Full-time",
-      "salary": "40,000 - 50,000 USD",
-      "requirements": ["Strong problem-solving skills", "Excellent communication abilities"],
-      "responsibilities": ["Assist customers via email and phone", "Resolve customer issues"],
-      "posted_date": "2024-01-30",
-      "application_deadline": "2024-02-28"
-    },
-    {
-      "id": "job008",
-      "title": "DevOps Engineer",
-      "description": "Seeking a DevOps engineer to manage our cloud infrastructure.",
-      "company": "CloudTech",
-      "location": "Seattle, WA",
-      "type": "Full-time",
-      "salary": "95,000 - 115,000 USD",
-      "requirements": ["Experience with AWS and Docker", "Strong scripting skills"],
-      "responsibilities": ["Manage cloud infrastructure", "Automate deployment processes"],
-      "posted_date": "2024-02-01",
-      "application_deadline": "2024-03-01"
-    },
-    {
-      "id": "job009",
-      "title": "Sales Manager",
-      "description": "We need a sales manager to lead our sales team.",
-      "company": "SalesMasters",
+      "id": 5,
+      "title": "Product Manager",
+      "company": "Tech Innovations Ltd.",
       "location": "Boston, MA",
       "type": "Full-time",
-      "salary": "80,000 - 100,000 USD + Commission",
-      "requirements": ["Proven sales experience", "Strong leadership skills"],
-      "responsibilities": ["Lead sales team", "Develop sales strategies"],
-      "posted_date": "2024-02-05",
-      "application_deadline": "2024-03-05"
+      "description": "Seeking a product manager to oversee the development and lifecycle of our flagship software products.",
+      "salary": "$110,000 - $130,000",
+      "requirements": [
+        "Proven experience as a product manager or similar role",
+        "Strong analytical and problem-solving skills",
+        "Excellent communication and leadership abilities"
+      ],
+      "responsibilities": [
+        "Define product vision, roadmap, and growth opportunities",
+        "Collaborate with cross-functional teams (engineering, marketing, sales)",
+        "Monitor product performance and user feedback"
+      ]
     },
     {
-      "id": "job010",
-      "title": "Business Analyst",
-      "description": "Looking for a business analyst to provide insights on business operations.",
-      "company": "BizInsights",
-      "location": "San Diego, CA",
-      "type": "Full-time",
-      "salary": "75,000 - 95,000 USD",
-      "requirements": ["Strong analytical skills", "Experience with data analysis tools"],
-      "responsibilities": ["Analyze business processes", "Provide actionable insights"],
-      "posted_date": "2024-02-10",
-      "application_deadline": "2024-03-10"
+      "id": 6,
+      "title": "Network Administrator",
+      "company": "Secure Networks Inc.",
+      "location": "Washington, D.C.",
+      "type": "Contract",
+      "description": "Looking for a network administrator to manage and maintain our company's network infrastructure and security.",
+      "salary": "$80,000 - $100,000",
+      "requirements": [
+        "Proven experience as a network administrator or similar role",
+        "Strong knowledge of network protocols and security measures",
+        "Experience with firewall configuration and VPN setup"
+      ],
+      "responsibilities": [
+        "Install and configure network hardware and software",
+        "Monitor network performance and troubleshoot issues",
+        "Ensure network security and compliance with company policies"
+      ]
     },
     {
-      "id": "job011",
-      "title": "HR Manager",
-      "description": "We are hiring an HR manager to oversee HR functions.",
-      "company": "PeopleFirst",
-      "location": "New York, NY",
-      "type": "Full-time",
-      "salary": "85,000 - 105,000 USD",
-      "requirements": ["5+ years of HR experience", "Strong interpersonal skills"],
-      "responsibilities": ["Manage recruitment process", "Handle employee relations"],
-      "posted_date": "2024-02-15",
-      "application_deadline": "2024-03-15"
-    },
-    {
-      "id": "job012",
-      "title": "Graphic Designer",
-      "description": "Join our team as a graphic designer to create visual content.",
-      "company": "CreativeWorks",
+      "id": 7,
+      "title": "Marketing Manager",
+      "company": "Digital Marketing Solutions LLC",
       "location": "Los Angeles, CA",
       "type": "Full-time",
-      "salary": "65,000 - 85,000 USD",
-      "requirements": ["Proficiency in Adobe Creative Suite", "Strong portfolio of design work"],
-      "responsibilities": ["Create visual content", "Collaborate with marketing team"],
-      "posted_date": "2024-02-20",
-      "application_deadline": "2024-03-20"
+      "description": "Seeking a seasoned marketing manager to develop and execute strategic marketing campaigns.",
+      "salary": "$90,000 - $110,000",
+      "requirements": [
+        "Proven experience in marketing or related field",
+        "Strong understanding of digital marketing channels",
+        "Excellent leadership and teamwork skills"
+      ],
+      "responsibilities": [
+        "Develop marketing strategies to drive brand awareness and lead generation",
+        "Manage marketing budgets and optimize campaign performance",
+        "Collaborate with creative teams and agencies to create compelling content"
+      ]
     },
     {
-      "id": "job013",
-      "title": "Systems Administrator",
-      "description": "Seeking a systems administrator to manage our IT infrastructure.",
-      "company": "ITSolutions",
-      "location": "Remote",
+      "id": 8,
+      "title": "Customer Support Specialist",
+      "company": "SupportHub Inc.",
+      "location": "Austin, TX",
+      "type": "Part-time",
+      "description": "Join our customer support team to provide exceptional service and resolve customer inquiries.",
+      "salary": "$20/hour",
+      "requirements": [
+        "Previous experience in customer support or related role",
+        "Strong communication and problem-solving skills",
+        "Ability to handle customer complaints and escalate issues as needed"
+      ],
+      "responsibilities": [
+        "Respond to customer inquiries via phone, email, or chat",
+        "Provide product information and technical support",
+        "Document customer interactions and follow up on unresolved issues"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Graphic Designer",
+      "company": "Visual Creations Studio",
+      "location": "Miami, FL",
       "type": "Full-time",
-      "salary": "70,000 - 90,000 USD",
-      "requirements": ["Experience with Linux and Windows servers", "Strong troubleshooting skills"],
-      "responsibilities": ["Manage IT infrastructure", "Ensure system security"],
-      "posted_date": "2024-02-25",
-      "application_deadline": "2024-03-25"
+      "description": "Looking for a creative graphic designer to produce engaging designs for print and digital platforms.",
+      "salary": "$60,000 - $80,000",
+      "requirements": [
+        "Proficiency in Adobe Creative Suite (Illustrator, Photoshop, InDesign)",
+        "Strong portfolio demonstrating creative design concepts",
+        "Knowledge of typography, color theory, and layout principles"
+      ],
+      "responsibilities": [
+        "Create visual concepts and mockups for various projects",
+        "Collaborate with clients and internal teams to understand design requirements",
+        "Prepare final artwork for production or publication"
+      ]
     },
     {
-      "id": "job014",
+      "id": 10,
+      "title": "Financial Analyst",
+      "company": "Financial Insights Group",
+      "location": "Dallas, TX",
+      "type": "Full-time",
+      "description": "Join our finance team to analyze financial data, trends, and performance to support strategic decision-making.",
+      "salary": "$70,000 - $90,000",
+      "requirements": [
+        "Bachelor's degree in Finance, Accounting, Economics, or related field",
+        "Strong analytical and quantitative skills",
+        "Proficiency in financial modeling and forecasting techniques"
+      ],
+      "responsibilities": [
+        "Compile and analyze financial reports and statements",
+        "Develop financial models and forecasts",
+        "Present findings and recommendations to senior management"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "HR Manager",
+      "company": "People First HR Solutions",
+      "location": "Atlanta, GA",
+      "type": "Full-time",
+      "description": "Seeking an experienced HR manager to oversee all aspects of human resources operations and policies.",
+      "salary": "$100,000 - $120,000",
+      "requirements": [
+        "Proven experience as an HR manager or similar role",
+        "Thorough knowledge of HR principles and best practices",
+        "Strong leadership and organizational skills"
+      ],
+      "responsibilities": [
+        "Develop and implement HR strategies and initiatives aligned with company goals",
+        "Manage recruitment, employee relations, and performance management processes",
+        "Ensure compliance with labor regulations and HR policies"
+      ]
+    },
+    {
       "title": "Content Writer",
       "description": "We are looking for a content writer to produce engaging content.",
       "company": "WriteNow",
       "location": "Remote",
       "type": "Full-time",
       "salary": "50,000 - 70,000 USD",
-      "requirements": ["Excellent writing skills", "Experience in content creation"],
-      "responsibilities": ["Write articles and blog posts", "Collaborate with marketing team"],
-      "posted_date": "2024-03-01",
-      "application_deadline": "2024-03-31"
+      "requirements": [
+        "Excellent writing skills",
+        "Experience in content creation"
+      ],
+      "responsibilities": [
+        "Write articles and blog posts",
+        "Collaborate with marketing team"
+      ],
+      "id": 12
     },
     {
-      "id": "job015",
-      "title": "Project Manager",
-      "description": "Seeking a project manager to oversee project execution.",
-      "company": "ProjectPros",
+      "id": 14,
+      "title": "Frontend Developer",
+      "company": "WebTech Solutions",
+      "location": "San Francisco, CA",
+      "type": "Full-time",
+      "description": "Creating responsive and interactive user interfaces using frontend technologies.",
+      "salary": "$100,000 - $120,000",
+      "requirements": [
+        "Proficiency in HTML, CSS, JavaScript",
+        "Experience with frontend frameworks (React, Angular, Vue)",
+        "Knowledge of RESTful APIs and AJAX"
+      ],
+      "responsibilities": [
+        "Implementing frontend designs and components",
+        "Optimizing web applications for maximum speed and scalability",
+        "Collaborating with backend developers to integrate frontend with server-side logic"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Content Marketing Specialist",
+      "company": "Content Creators Inc.",
+      "location": "New York, NY",
+      "type": "Remote",
+      "description": "Developing and executing content strategies to drive brand awareness and engagement.",
+      "salary": "$90,000 - $110,000",
+      "requirements": [
+        "Proven experience in content marketing or digital marketing",
+        "Strong writing and editing skills",
+        "Knowledge of SEO and web traffic metrics"
+      ],
+      "responsibilities": [
+        "Creating and managing content calendars",
+        "Producing high-quality written and visual content",
+        "Analyzing content performance and optimizing strategies"
+      ]
+    },
+    {
+      "title": "software Quality Assurance Engineer",
+      "description": "Ensuring the quality and reliability of software products through rigorous testing and quality assurance processes.",
+      "company": "QualityTech Solutions",
+      "location": "Chicago, IL",
+      "type": "Full-time",
+      "salary": "$95,000 - $115,000",
+      "requirements": [
+        "Experience in software testing and QA methodologies",
+        "Knowledge of test automation tools (Selenium, Appium)",
+        "Strong analytical and problem-solving skills"
+      ],
+      "responsibilities": [
+        "Designing and executing test plans and scenarios",
+        "Identifying and documenting software defects",
+        "Collaborating with development teams to resolve issues"
+      ],
+      "id": 16
+    },
+    {
+      "id": 17,
+      "title": "Systems Administrator",
+      "company": "System Solutions Group",
       "location": "Austin, TX",
       "type": "Full-time",
-      "salary": "90,000 - 110,000 USD",
-      "requirements": ["Experience in project management", "Strong organizational skills"],
-      "responsibilities": ["Manage project timelines", "Coordinate with stakeholders"],
-      "posted_date": "2024-03-05",
-      "application_deadline": "2024-04-05"
+      "description": "Managing and maintaining IT infrastructure to ensure optimal performance and reliability.",
+      "salary": "$95,000 - $115,000",
+      "requirements": [
+        "Proven experience in systems administration roles",
+        "Knowledge of operating systems and server technologies",
+        "Strong troubleshooting and problem-solving skills"
+      ],
+      "responsibilities": [
+        "Installing, configuring, and maintaining servers and networks",
+        "Monitoring system performance and security",
+        "Implementing backup and disaster recovery plans"
+      ]
     }
   ]
 }
