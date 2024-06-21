@@ -265,7 +265,7 @@
       ]
     },
     {
-      "title": "software Quality Assurance Engineer",
+      "title": "Senior Software Quality Assurance Engineer",
       "description": "Ensuring the quality and reliability of software products through rigorous testing and quality assurance processes.",
       "company": "QualityTech Solutions",
       "location": "Chicago, IL",
@@ -284,23 +284,232 @@
       "id": 16
     },
     {
-      "id": 17,
-      "title": "Systems Administrator",
-      "company": "System Solutions Group",
-      "location": "Austin, TX",
+      "title": "Senior Frontend Developer",
+      "description": "Creating responsive web applications with a focus on user experience and performance.",
+      "company": "TechFront Solutions",
+      "location": "San Francisco, CA",
       "type": "Full-time",
-      "description": "Managing and maintaining IT infrastructure to ensure optimal performance and reliability.",
-      "salary": "$95,000 - $115,000",
+      "salary": "$110,000 - $130,000",
       "requirements": [
-        "Proven experience in systems administration roles",
-        "Knowledge of operating systems and server technologies",
-        "Strong troubleshooting and problem-solving skills"
+        "Proficiency in JavaScript, HTML, CSS",
+        "Experience with modern frontend frameworks/libraries (React, Angular, Vue)",
+        "Strong understanding of responsive design principles"
       ],
       "responsibilities": [
-        "Installing, configuring, and maintaining servers and networks",
-        "Monitoring system performance and security",
-        "Implementing backup and disaster recovery plans"
-      ]
+        "Building and maintaining frontend components and features",
+        "Optimizing applications for maximum speed and scalability",
+        "Collaborating with UX/UI designers to implement designs"
+      ],
+      "id": 17
+    },
+    {
+      "title": "Backend Developer",
+      "description": "Developing robust server-side logic and APIs to support frontend functionalities.",
+      "company": "CodeCraft Innovations",
+      "location": "Austin, TX",
+      "type": "Full-time",
+      "salary": "$100,000 - $120,000",
+      "requirements": [
+        "Proficiency in Python, Java, or Node.js",
+        "Experience with RESTful API design and development",
+        "Knowledge of database management systems (MySQL, MongoDB)"
+      ],
+      "responsibilities": [
+        "Designing and implementing RESTful APIs",
+        "Writing clean, scalable, and efficient server-side code",
+        "Collaborating with frontend developers to integrate APIs"
+      ],
+      "id": 18
+    },
+    {
+      "title": "DevOps Engineer",
+      "description": "Implementing and maintaining continuous integration and continuous deployment (CI/CD) pipelines.",
+      "company": "InfraSolutions",
+      "location": "Seattle, WA",
+      "type": "Full-time",
+      "salary": "$105,000 - $125,000",
+      "requirements": [
+        "Experience with Docker, Kubernetes, and Jenkins",
+        "Knowledge of cloud platforms (AWS, Azure, GCP)",
+        "Strong understanding of infrastructure as code (Terraform, Ansible)"
+      ],
+      "responsibilities": [
+        "Setting up and maintaining CI/CD pipelines",
+        "Managing cloud infrastructure and services",
+        "Monitoring system performance and troubleshooting issues"
+      ],
+      "id": 19
+    },
+    {
+      "title": "Product Manager",
+      "description": "Overseeing product development lifecycle from conception to launch.",
+      "company": "InnovateTech",
+      "location": "Boston, MA",
+      "type": "Full-time",
+      "salary": "$120,000 - $140,000",
+      "requirements": [
+        "Experience in product management and lifecycle management",
+        "Strong analytical, strategic thinking, and leadership skills",
+        "Excellent communication and collaboration abilities"
+      ],
+      "responsibilities": [
+        "Defining product vision and roadmap",
+        "Conducting market research and analysis",
+        "Collaborating with cross-functional teams to deliver products"
+      ],
+      "id": 20
+    },
+    {
+      "title": "UI/UX Designer",
+      "description": "Creating intuitive and aesthetically pleasing user interfaces and user experiences.",
+      "company": "DesignWave",
+      "location": "Los Angeles, CA",
+      "type": "Full-time",
+      "salary": "$85,000 - $105,000",
+      "requirements": [
+        "Proficiency in design tools (Sketch, Figma, Adobe XD)",
+        "Strong understanding of user-centered design principles",
+        "Experience with front-end development (HTML, CSS, JavaScript) is a plus"
+      ],
+      "responsibilities": [
+        "Designing wireframes, prototypes, and user interfaces",
+        "Conducting user research and usability testing",
+        "Collaborating with developers to implement designs"
+      ],
+      "id": 21
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Developing high-quality software solutions and contributing to technical innovation.",
+      "company": "CodeWave Technologies",
+      "location": "Denver, CO",
+      "type": "Full-time",
+      "salary": "$95,000 - $115,000",
+      "requirements": [
+        "Strong programming skills in Java, C++, or Python",
+        "Experience with software development methodologies (Agile, Scrum)",
+        "Familiarity with software design patterns and best practices"
+      ],
+      "responsibilities": [
+        "Writing clean, maintainable, and efficient code",
+        "Participating in code reviews and team discussions",
+        "Collaborating with cross-functional teams to build software solutions"
+      ],
+      "id": 22
+    },
+    {
+      "title": "Data Scientist",
+      "description": "Analyzing large datasets to derive actionable insights and support decision-making.",
+      "company": "DataVision Analytics",
+      "location": "New York, NY",
+      "type": "Full-time",
+      "salary": "$110,000 - $130,000",
+      "requirements": [
+        "Proficiency in Python, R, or SQL",
+        "Experience with data visualization tools (Tableau, Power BI)",
+        "Strong statistical and analytical skills"
+      ],
+      "responsibilities": [
+        "Building and maintaining data models and algorithms",
+        "Conducting data analysis and generating insights",
+        "Collaborating with stakeholders to understand business requirements"
+      ],
+      "id": 23
+    },
+    {
+      "title": "Network Administrator",
+      "description": "Managing and maintaining network infrastructure to ensure smooth operations.",
+      "company": "TechConnect Solutions",
+      "location": "Phoenix, AZ",
+      "type": "Full-time",
+      "salary": "$70,000 - $90,000",
+      "requirements": [
+        "Experience with network configuration and troubleshooting",
+        "Knowledge of networking protocols (TCP/IP, DNS, DHCP)",
+        "Certifications such as CCNA or CompTIA Network+ are a plus"
+      ],
+      "responsibilities": [
+        "Configuring and maintaining network devices and hardware",
+        "Monitoring network performance and resolving issues",
+        "Implementing network security measures and protocols"
+      ],
+      "id": 24
+    },
+    {
+      "title": "Database Administrator",
+      "description": "Overseeing database management, maintenance, and optimization.",
+      "company": "DataGuard Solutions",
+      "location": "Dallas, TX",
+      "type": "Full-time",
+      "salary": "$80,000 - $100,000",
+      "requirements": [
+        "Experience with database management systems (MySQL, PostgreSQL)",
+        "Knowledge of database optimization and tuning",
+        "Strong understanding of database security practices"
+      ],
+      "responsibilities": [
+        "Designing and implementing database schemas and structures",
+        "Performing database backups, restores, and maintenance",
+        "Monitoring database performance and resolving issues"
+      ],
+      "id": 25
+    },
+    {
+      "title": "Cloud Solutions Architect",
+      "description": "Designing and implementing scalable cloud architectures for various applications.",
+      "company": "CloudTech Innovations",
+      "location": "San Diego, CA",
+      "type": "Full-time",
+      "salary": "$130,000 - $150,000",
+      "requirements": [
+        "Experience with cloud platforms (AWS, Azure, GCP)",
+        "Knowledge of cloud architecture design and best practices",
+        "Certifications such as AWS Certified Solutions Architect or Google Professional Cloud Architect"
+      ],
+      "responsibilities": [
+        "Designing cloud-based solutions and architectures",
+        "Providing technical guidance and support to development teams",
+        "Evaluating and recommending cloud services and technologies"
+      ],
+      "id": 26
+    },
+    {
+      "title": "Systems Analyst",
+      "description": "Analyzing and designing IT systems to meet business requirements and improve efficiency.",
+      "company": "TechSolutions Inc.",
+      "location": "Atlanta, GA",
+      "type": "Full-time",
+      "salary": "$85,000 - $105,000",
+      "requirements": [
+        "Experience with systems analysis and design methodologies",
+        "Strong problem-solving and analytical skills",
+        "Familiarity with business process modeling tools"
+      ],
+      "responsibilities": [
+        "Gathering and analyzing business requirements",
+        "Designing system architecture and workflows",
+        "Collaborating with stakeholders to implement solutions"
+      ],
+      "id": 27
+    },
+    {
+      "title": "Security Engineer",
+      "description": "Implementing security measures and protocols to protect company assets and data.",
+      "company": "SecureTech Solutions",
+      "location": "Boston, MA",
+      "type": "Full-time",
+      "salary": "$120,000 - $140,000",
+      "requirements": [
+        "Experience with security tools and technologies (Firewalls, IDS/IPS)",
+        "Knowledge of security standards and compliance (ISO, NIST)",
+        "Certifications such as CISSP, CISM, or CEH"
+      ],
+      "responsibilities": [
+        "Designing and implementing security measures and policies",
+        "Conducting security audits and risk assessments",
+        "Responding to security incidents and breaches"
+      ],
+      "id": 28
     }
   ]
 }
