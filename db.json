@@ -1,80 +1,25 @@
 {
   "jobs": [
     {
-      "title": "Software Engineer",
-      "description": "Developing scalable web applications using modern technologies.",
-      "company": "Tech Solutions Inc.",
-      "location": "San Francisco, CA",
-      "type": "Full-time",
-      "salary": "$100,000 - $120,000",
-      "requirements": [
-        "Proficiency in JavaScript, HTML, CSS",
-        "Experience with React.js, Node.js, and Express.js",
-        "Understanding of database systems (SQL and NoSQL)"
-      ],
-      "responsibilities": [
-        "Designing and implementing frontend interfaces",
-        "Building backend APIs and services",
-        "Collaborating with UX/UI designers and product managers"
-      ],
-      "id": 1
-    },
-    {
-      "id": 2,
-      "title": "Data Scientist",
-      "company": "Data Insights Corp.",
-      "location": "New York, NY",
-      "type": "Remote",
-      "description": "Applying machine learning algorithms to analyze large datasets and extract valuable insights.",
-      "salary": "$120,000 - $140,000",
-      "requirements": [
-        "Advanced knowledge of statistics and probability",
-        "Proficiency in Python, R, or MATLAB",
-        "Experience with data visualization tools (Tableau, Power BI)"
-      ],
-      "responsibilities": [
-        "Developing predictive models and algorithms",
-        "Presenting findings to stakeholders",
-        "Optimizing data processing pipelines"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "UX/UI Designer",
-      "company": "Creative Designs Co.",
-      "location": "Los Angeles, CA",
-      "type": "Contract",
-      "description": "Creating intuitive and visually appealing user interfaces for web and mobile applications.",
-      "salary": "$90,000 - $110,000",
-      "requirements": [
-        "Proficiency in design tools (Sketch, Adobe XD)",
-        "Strong portfolio showcasing UI/UX projects",
-        "Understanding of frontend development (HTML, CSS, JavaScript)"
-      ],
-      "responsibilities": [
-        "Conducting user research and usability testing",
-        "Collaborating with developers to implement designs",
-        "Iterating based on feedback and analytics"
-      ]
-    },
-    {
-      "id": 4,
-      "title": "Data Scientist",
+      "title": "Data Scientist full",
+      "description": "Join our data science team to analyze complex datasets and develop predictive models for business insights.",
       "company": "Big Data Analytics Corp.",
       "location": "Chicago, IL",
       "type": "Full-time",
-      "description": "Join our data science team to analyze complex datasets and develop predictive models for business insights.",
       "salary": "$100,000 - $120,000",
       "requirements": [
         "Strong proficiency in Python or R",
-        "Experience with machine learning libraries (e.g., TensorFlow, Scikit-Learn)",
+        "Experience with machine learning libraries (e.g.",
+        "TensorFlow",
+        "Scikit-Learn)",
         "Advanced statistical analysis skills"
       ],
       "responsibilities": [
         "Clean and preprocess data for analysis",
         "Develop and implement machine learning algorithms",
         "Communicate findings and insights to stakeholders"
-      ]
+      ],
+      "id": 4
     },
     {
       "id": 5,
@@ -115,12 +60,11 @@
       ]
     },
     {
-      "id": 7,
-      "title": "Marketing Manager",
+      "title": "Marketing Manager full",
+      "description": "Seeking a seasoned marketing manager to develop and execute strategic marketing campaigns.",
       "company": "Digital Marketing Solutions LLC",
       "location": "Los Angeles, CA",
       "type": "Full-time",
-      "description": "Seeking a seasoned marketing manager to develop and execute strategic marketing campaigns.",
       "salary": "$90,000 - $110,000",
       "requirements": [
         "Proven experience in marketing or related field",
@@ -131,7 +75,8 @@
         "Develop marketing strategies to drive brand awareness and lead generation",
         "Manage marketing budgets and optimize campaign performance",
         "Collaborate with creative teams and agencies to create compelling content"
-      ]
+      ],
+      "id": 7
     },
     {
       "id": 8,
@@ -510,6 +455,22 @@
         "Responding to security incidents and breaches"
       ],
       "id": 28
+    },
+    {
+      "title": "nean",
+      "description": "dfds",
+      "company": "dfds",
+      "location": "dsfds",
+      "type": "Full-time",
+      "salary": "21 - 232 USD",
+      "requirements": [
+        "32"
+      ],
+      "responsibilities": [
+        "121"
+      ],
+      "posted_date": "2024-09-10",
+      "id": 29
     }
   ]
 }
