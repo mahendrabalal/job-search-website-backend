@@ -1,21 +1,30 @@
 require('dotenv').config();
 const jsonServer = require('json-server');
 const morgan = require('morgan');
- 
+
 const server = jsonServer.create();
 const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
-const PORT = process.env.PORT || 5005
- 
+const PORT = process.env.PORT || 5005;
+
 server.use(middlewares);
 server.use(morgan('dev'));
+
+// Improved CORS handling
 server.use((req, res, next) => {
-  // Middleware to disable CORS
   res.header('Access-Control-Allow-Origin', '*');
+  res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, PATCH, OPTIONS');
+  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept, Authorization');
   next();
 });
+
+// Health check endpoint
+server.get('/health', (req, res) => {
+  res.send('Backend is up and running!');
+});
+
 server.use(router);
- 
+
 server.listen(PORT, () => {
   console.log(`JSON Server is running at port ${PORT}`);
 });
