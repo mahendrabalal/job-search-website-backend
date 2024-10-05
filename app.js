@@ -5,7 +5,7 @@ const morgan = require('morgan');
 const server = jsonServer.create();
 const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
-const PORT = process.env.PORT || 5005;
+
 
 server.use(middlewares);
 server.use(morgan('dev'));
@@ -25,6 +25,6 @@ server.get('/health', (req, res) => {
 
 server.use(router);
 
-server.listen(PORT, () => {
+server.listen(3000, () => {
   console.log(`JSON Server is running at port ${PORT}`);
 });
